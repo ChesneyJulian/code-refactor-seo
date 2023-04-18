@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* change all instances of .header to header to match element */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
