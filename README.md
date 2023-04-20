@@ -2,8 +2,15 @@
 
 ## Description
 
-This project was created with the intent of refactoring the HTML and CSS code of the Horiseon SEO website to increase search engine optimization, improve accessibility, and improve code efficiency. This was completed by utilizing a descriptive title,semantic elements, concise class selectors, alt texts for images, meta tags, and keywords. 
-
+This project was created with the intent of refactoring the HTML and CSS code of the Horiseon SEO website to increase search engine optimization, improve accessibility, and improve code efficiency. This was completed by implementing:
+- a descriptive title 
+- an abbreviation tag
+- semantic elements
+- concise class selectors 
+- alt texts for images
+- a meta description tag 
+- keywords
+- DRY CSS
 ## Usage
 
 - Use the URL [https://chesneyjulian.github.io/code-refactor-seo/](https://chesneyjulian.github.io/code-refactor-seo/) to view the webpage.
@@ -14,7 +21,7 @@ This project was created with the intent of refactoring the HTML and CSS code of
 
 ## Credits 
 
-I used these websites to learn more about SEO practices to apply to HTML.
+I used these websites to learn additional info for the best SEO practices to apply to HTML.
 
 - [9 SEO Best Practices](https://www.semrush.com/blog/seo-best-practices/)
 
