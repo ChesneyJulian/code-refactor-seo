@@ -6,7 +6,7 @@ This project was created with the intent of refactoring the HTML and CSS code of
 
 ## Usage
 
-- Use the [URL](https://chesneyjulian.github.io/code-refactor-seo/) to view the webpage.
+- Use the URL [https://chesneyjulian.github.io/code-refactor-seo/](https://chesneyjulian.github.io/code-refactor-seo/) to view the webpage.
 - Hover over the colored text in Horiseon to see abbreviation tag.
 - Navigation links located on the top right of the page will allow you to quickly jump to information regarding the specified section. The tab key allows you to select each of these links in succession.
 
