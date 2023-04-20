@@ -2,18 +2,15 @@
 
 ## Description
 
-This project was created with the intent of refactoring the HTML and CSS code of the Horiseon SEO website to increase search engine optimization, improve accessibility, and improve code efficiency. This was completed by utilizing semantic elements, concise class selectors, alt texts for images, meta tags, and keywords. 
+This project was created with the intent of refactoring the HTML and CSS code of the Horiseon SEO website to increase search engine optimization, improve accessibility, and improve code efficiency. This was completed by utilizing a descriptive title,semantic elements, concise class selectors, alt texts for images, meta tags, and keywords. 
 
-## Installation
-
-N/A
 ## Usage
 
-- Use the URL to view the webpage.
+- Use the [URL](https://chesneyjulian.github.io/code-refactor-seo/) to view the webpage.
 - Hover over the colored text in Horiseon to see abbreviation tag.
 - Navigation links located on the top right of the page will allow you to quickly jump to information regarding the specified section. The tab key allows you to select each of these links in succession.
 
-![header and navigation](assets/images/nav-screenshot.png) 
+![Screenshot of web deployment](./assets/images/horiseon-screenshot.png)
 
 ## Credits 
 
@@ -31,6 +28,3 @@ I used this website to learn the best way to write an alt text tag for an image 
 
 I used this website to learn how to write a meta description to improve SEO and search ranking.
 - [Moz | SEO: Meta Description](https://moz.com/learn/seo/meta-description)
-
-## License
-N/A
